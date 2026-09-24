@@ -1,4 +1,5 @@
-Requirements: PowerShell 7 -> https://github.com/PowerShell/PowerShell
+Requirements: PowerShell 7 -> https://github.com/PowerShell/PowerShell<br>
+!!Make sure to use always the newest version of CipherBox for all newest features!!
 
 To start just type `.\start.ps1` into your Powershell 7 CLI
 
